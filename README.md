@@ -15,22 +15,19 @@ I'm Đông Triều (dongtrieuit) 😃. I love to explore and learn about new thi
 
 
 - 📫 How to reach me: **dongtrieuit@gmail.com** ## 💬 Connect with me:
-<a href="https://www.facebook.com/hotro2019/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif">
+<a href="https://www.facebook.com/hotro2019/">
+    <img src="https://github.com/MLX15/MLX15/blob/master/a.gif">
 </a>
 <p align="center">
     <a href="https://www.facebook.com/hotro2019">
         <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
     </a>
-
     <a href="https://github.com/trieunhd">
         <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
     </a>
-
     <a href="https://dev.to/trieunhd">
         <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
     </a>
-
-
     <a href="mailto:dongtrieuit@gmail.com">
         <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
     </a>
@@ -41,9 +38,9 @@ I'm Đông Triều (dongtrieuit) 😃. I love to explore and learn about new thi
 
 
 ## ⚡ Technologies 🛠
-<a href="https://www.facebook.com/NguyenDucLinhcntt/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif">
+<a href="https://www.facebook.com/hotro2019"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif">
 </a>
-Talk to me about: - Front-end development using **HTML, Javascript, CSS, SASS, Boostrap, TailwindCSS, Next js**. - Backend development using **Node js, Express, MongoDB**. - Making for **Relational Database Management Systems**. - Mobile application development using **React Native**. - Solving Data structure and algorithm questions in **Python and C++**. ## 🎯 Languages and Tools:
+Talk to me about: - Front-end development using **HTML, Javascript, CSS, SASS, Boostrap, Angular, AngularJs**. - Backend development using **Java Spring-boot, PHP,...**. - Making for **Relational Database Management Systems**.  ## 🎯 Languages and Tools:
 <a href="https://www.facebook.com/hotro2019/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif">
 </a>
 <p align="center">
