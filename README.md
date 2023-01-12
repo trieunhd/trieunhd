@@ -33,7 +33,10 @@ I'm Đông Triều (dongtrieuit) 😃. I love to explore and learn about new thi
 ## ⚡ Technologies 🛠
 <a href="https://www.facebook.com/hotro2019"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif">
 </a>
-Talk to me about: <br>- Front-end development using **HTML, Javascript, CSS, Boostrap, Angular, AngularJs**. - Backend development using **Java Spring-boot, PHP,...**.🎯 Languages and Tools:
+Talk to me about: 
+<br>- Front-end development using **HTML, Javascript, CSS, Boostrap, Angular, AngularJs**. 
+<br>- Backend development using **Java Spring-boot, NodeJs, PHP...**.
+<br>🎯 Languages and Tools:
 <a href="#"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
 <p align="center">
     <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="jetbrains" width="40" height="40" /> </a>
